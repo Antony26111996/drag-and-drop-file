@@ -1,0 +1,18 @@
+.attachment-section {
+  border: 2px dashed #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+.attachment-input-container {
+  cursor: pointer;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 4px;
+}
+
+.attachment-input-container p {
+  color: #777;
+  font-size: 14px;
+}
